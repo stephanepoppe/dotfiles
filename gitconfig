@@ -1,7 +1,10 @@
 [user]
-	name = Stephane Poppe
+	name = stephanepoppe
 	email = stephane.poppe@marlon.be
-
+	
+[credential]
+	helper = osxkeychain
+	
 [color]
 	ui = auto
 
