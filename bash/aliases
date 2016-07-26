@@ -26,3 +26,7 @@ alias memcache.stop='killall memcached'
 
 # reinstall dotfiles
 alias dotfiles.reinstall='cd ~/.dotfiles && ./uninstall.sh && ./install.sh && cd ~'
+
+# internal tools stuff
+alias tagAndBag="/usr/bin/bash ~/apps/internal-tools/BuildTools/tagAndBag.sh"
+alias go="/usr/bin/bash  ~/apps/internal-tools/go.sh"
