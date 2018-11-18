@@ -17,9 +17,6 @@ alias gprom='git pull --rebase origin master'
 alias gdiff='git diff --name-only'
 complete -o default -o nospace -F _git g
 
-# deploy blimp
-alias blimp.deploy='ssh bauffman "cd www.blimp.be/ && git checkout production && git pull origin production && history -c" && echo "All done"'
-
 # memcache
 alias memcache.start='memcached -d -m 100'
 alias memcache.stop='killall memcached'
@@ -30,3 +27,13 @@ alias dotfiles.reinstall='cd ~/.dotfiles && ./uninstall.sh && ./install.sh && cd
 # internal tools stuff
 alias tagAndBag="/usr/bin/bash ~/apps/internal-tools/BuildTools/tagAndBag.sh"
 alias go="/usr/bin/bash  ~/apps/internal-tools/go.sh"
+
+# showpad stuff
+alias centralstation_log='tail -f apps/centralstation/app/logs/centralstation.log'
+alias kubeminions='ssh centos@sp-buildserver.eu-central-1.showpad.io'
+
+
+# docker
+alias csbash='docker exec -ti centralstation_centralstation_1 bash'
+alias start_centralstation='changeDockerEnvironment && cd /Users/stephaneshowpad/apps/centralstation && docker-compose up -d'
+

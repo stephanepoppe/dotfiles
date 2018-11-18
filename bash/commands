@@ -260,3 +260,23 @@ search_and_replace()
 		fi
 	fi
 }
+
+# Login in the given docker container
+docker_container_login()
+{
+	container=$1
+	argument=$2
+
+	containerName=centralstation_${container}_1
+
+	docker-machine start
+    	eval "$(docker-machine env)"
+
+	if [$argument == ''];
+	then
+		argument='bash'
+	fi
+
+	echo 'execute: docker exec -ti $containerName $argument'
+	docker exec -ti $containerName $argument;
+}
