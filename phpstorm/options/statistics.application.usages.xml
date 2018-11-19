@@ -1,0 +1,177 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-interpreters">
+      <project id="centralstation" values="2" collectionTime="1472462906034" />
+      <project id="web-app" values="2" collectionTime="1472462906110" />
+      <project id="apu" values="2" collectionTime="1471429921830" />
+      <project id="internal-tools" values="0" collectionTime="1469170086946" />
+      <project id="gmail-plugin" values="2" collectionTime="1470828120182" />
+      <project id="JarvisTeam" values="2" collectionTime="1470061936606" />
+    </group>
+    <group name="vcs">
+      <project id="centralstation" values="Git" collectionTime="1472462905814" />
+      <project id="internal-tools" values="Git" collectionTime="1469170086833" />
+      <project id="apu" values="Git" collectionTime="1471429921683" />
+      <project id="web-app" values="Git" collectionTime="1472462906047" />
+      <project id="gmail-plugin" values="Git" collectionTime="1470828120057" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="internal-tools" values="data.git.root.count.1,data.commit.count.1K+" collectionTime="1469170086847" />
+      <project id="centralstation" values="data.git.root.count.1,data.commit.count.10K+" collectionTime="1472462905930" />
+      <project id="web-app" values="data.git.root.count.1,data.commit.count.1K+" collectionTime="1472462906105" />
+      <project id="gmail-plugin" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1470828120091" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="centralstation" values="PHPUnitRunConfigurationType" collectionTime="1472462905815" />
+    </group>
+    <group name="file-type">
+      <project id="centralstation" values="Native,Locale,Markdown,JavaScript,JSON,Images,Perl,ARCHIVE,JSON Schema,SmartyConfig,Twig,SQL,PLAIN_TEXT,C++,SourceMap,HTML,htaccess,PHAR,XML,CSS,ReST,Less,TypeScript,YAML,Ini,UNKNOWN,PHP" collectionTime="1472462905893" />
+      <project id="web-app" values="Less,CSS,YAML,JavaScript,JSON,XML,UNKNOWN,Images,SourceMap,JSON Schema,Markdown,HTML,PLAIN_TEXT,htaccess,Native,PHP" collectionTime="1472462906102" />
+      <project id="apu" values="PHP,JSON Schema,PLAIN_TEXT" collectionTime="1471429921735" />
+      <project id="internal-tools" values="UNKNOWN,Images,Ini,htaccess,Native,PHP,JSHint,JavaScript,Markdown,Less,CSS,C#,CoffeeScript,PLAIN_TEXT,ARCHIVE,YAML,HTML,C++,SmartyConfig,XML,JSON,JSON Schema" collectionTime="1469170086844" />
+      <project id="gmail-plugin" values="PLAIN_TEXT,Images,Markdown,SCSS,XML,JSON Schema,JavaScript,JSON,HTML" collectionTime="1470828120090" />
+      <project id="JarvisTeam" values="JavaScript,JSON Schema,UNKNOWN,YAML,Ini,PLAIN_TEXT,Markdown" collectionTime="1470061936508" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="centralstation" values="0" collectionTime="1472462906037" />
+      <project id="web-app" values="0" collectionTime="1472462906110" />
+      <project id="apu" values="0" collectionTime="1471429921832" />
+      <project id="internal-tools" values="0" collectionTime="1469170086947" />
+      <project id="gmail-plugin" values="0" collectionTime="1470828120184" />
+      <project id="JarvisTeam" values="0" collectionTime="1470061936610" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="web-app" values="5.6.23" collectionTime="1472462906110" />
+      <project id="internal-tools" values="not installed" collectionTime="1469170086942" />
+      <project id="centralstation" values="5.6.23" collectionTime="1472462906034" />
+      <project id="apu" values="5.6.23" collectionTime="1471429921829" />
+      <project id="gmail-plugin" values="5.6.23" collectionTime="1470828120182" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="JarvisTeam" values="xdebug" collectionTime="1470061936609" />
+      <project id="gmail-plugin" values="xdebug" collectionTime="1470828120184" />
+      <project id="apu" values="xdebug" collectionTime="1471429921831" />
+      <project id="web-app" values="xdebug" collectionTime="1472462906110" />
+      <project id="centralstation" values="xdebug" collectionTime="1472462906036" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="centralstation" values="node_modules" collectionTime="1472462906009" />
+      <project id="web-app" values="node_modules" collectionTime="1472462906105" />
+      <project id="gmail-plugin" values="node_modules" collectionTime="1470828120172" />
+    </group>
+    <group name="php-include-path">
+      <project id="centralstation" values="0" collectionTime="1472462906023" />
+      <project id="web-app" values="0" collectionTime="1472462906106" />
+      <project id="apu" values="0" collectionTime="1471429921814" />
+      <project id="internal-tools" values="0" collectionTime="1469170086939" />
+      <project id="gmail-plugin" values="0" collectionTime="1470828120174" />
+      <project id="JarvisTeam" values="0" collectionTime="1470061936582" />
+    </group>
+    <group name="module type">
+      <project id="centralstation" values="WEB_MODULE" collectionTime="1472462905815" />
+      <project id="web-app" values="WEB_MODULE" collectionTime="1472462906047" />
+      <project id="apu" values="WEB_MODULE" collectionTime="1471429921684" />
+      <project id="internal-tools" values="WEB_MODULE" collectionTime="1469170086833" />
+      <project id="gmail-plugin" values="WEB_MODULE" collectionTime="1470828120057" />
+      <project id="JarvisTeam" values="WEB_MODULE" collectionTime="1470061936459" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="centralstation" values="ECMAScript 5.1" collectionTime="1472462906009" />
+      <project id="web-app" values="ECMAScript 5.1" collectionTime="1472462906105" />
+      <project id="apu" values="ECMAScript 5.1" collectionTime="1471429921799" />
+      <project id="internal-tools" values="ECMAScript 5.1" collectionTime="1469170086937" />
+      <project id="gmail-plugin" values="ECMAScript 5.1" collectionTime="1470828120172" />
+      <project id="JarvisTeam" values="ECMAScript 5.1" collectionTime="1470061936580" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="centralstation" values="Project,Directory,Project" collectionTime="1472462906009" />
+      <project id="web-app" values="Project,Directory,Project" collectionTime="1472462906105" />
+      <project id="apu" values="Project,Project" collectionTime="1471429921799" />
+      <project id="internal-tools" values="Project,Project" collectionTime="1469170086937" />
+      <project id="gmail-plugin" values="Project,Project,Directory" collectionTime="1470828120172" />
+      <project id="JarvisTeam" values="Project,Project" collectionTime="1470061936580" />
+    </group>
+    <group name="Git">
+      <project id="centralstation" values="data.local.branches.count.8+,data.remotes.in.project.1,config.push.update.all.roots.enabled,data.remote.branches.count.100+,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1472462905931" />
+      <project id="web-app" values="config.warn.about.crlf.enabled,data.remote.branches.count.100+,data.remotes.in.project.1,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1472462906105" />
+      <project id="apu" values="data.local.branches.count.1,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1471429921736" />
+      <project id="internal-tools" values="config.save.policy.STASH,data.remote.branches.count.15+,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1469170086848" />
+      <project id="gmail-plugin" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.5+,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.local.branches.count.1,data.remotes.in.project.1,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1470828120091" />
+      <project id="JarvisTeam" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1470061936509" />
+    </group>
+    <group name="images.ide.background">
+      <project id="centralstation" values="editor 0,frame 0" collectionTime="1472462905930" />
+      <project id="web-app" values="editor 0,frame 0" collectionTime="1472462906105" />
+      <project id="apu" values="frame 0,editor 0" collectionTime="1471429921735" />
+      <project id="internal-tools" values="editor 0,frame 0" collectionTime="1469170086847" />
+      <project id="gmail-plugin" values="frame 0,editor 0" collectionTime="1470828120091" />
+      <project id="JarvisTeam" values="editor 0,frame 0" collectionTime="1470061936508" />
+    </group>
+    <group name="php-servers">
+      <project id="centralstation" values="6" collectionTime="1472462906027" />
+      <project id="web-app" values="0" collectionTime="1472462906110" />
+      <project id="apu" values="0" collectionTime="1471429921817" />
+      <project id="internal-tools" values="0" collectionTime="1469170086942" />
+      <project id="gmail-plugin" values="0" collectionTime="1470828120174" />
+      <project id="JarvisTeam" values="0" collectionTime="1470061936585" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Node.js Express App" count="1" />
+      <entry feature="AbstractNewProjectStep.PHP Empty Project" count="2" />
+      <entry feature="CreateFile.CreateFileAction" count="30" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="7" />
+      <entry feature="OpenInBrowser.Chrome" count="14" />
+      <entry feature="OpenInBrowser.default" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="7" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="3" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Side-by-side viewer" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
+      <entry feature="execute.JavascriptDebugType.Run" count="7" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="1" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Coverage" count="10" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Debug" count="291" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Run" count="1238" />
+      <entry feature="ide.help.debugging.DebugWindow" count="2" />
+      <entry feature="ide.help.reference.settingsdialog.IDE.editor.colors" count="1" />
+      <entry feature="ide.settings.Appearance" count="18" />
+      <entry feature="ide.settings.Code_Sniffer" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Color_Scheme" count="52" />
+      <entry feature="ide.settings.Color_Scheme_Font" count="22" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="35" />
+      <entry feature="ide.settings.Composer" count="1" />
+      <entry feature="ide.settings.Console_Font" count="16" />
+      <entry feature="ide.settings.DBGp_Proxy" count="3" />
+      <entry feature="ide.settings.Debug" count="1" />
+      <entry feature="ide.settings.Directories" count="1" />
+      <entry feature="ide.settings.Docker" count="2" />
+      <entry feature="ide.settings.Editor_Tabs" count="5" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="8" />
+      <entry feature="ide.settings.Font" count="27" />
+      <entry feature="ide.settings.General" count="5" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.Language_Defaults" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="6" />
+      <entry feature="ide.settings.Material_Custom_Theme" count="15" />
+      <entry feature="ide.settings.Material_Theme" count="5" />
+      <entry feature="ide.settings.Notifications" count="1" />
+      <entry feature="ide.settings.PHP" count="14" />
+      <entry feature="ide.settings.PHPUnit" count="32" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Servers" count="5" />
+      <entry feature="ide.settings.Volume_binding" count="10" />
+      <entry feature="ideaapp.started" count="226" />
+      <entry feature="json.schema.builtin.completion" count="9" />
+      <entry feature="terminal.mac" count="9" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="vcs.log.ShowDiff" count="40" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="5" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>
